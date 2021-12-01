@@ -7,7 +7,7 @@ These include:
 2. Parse website data using an HTML parser (Beautiful Soup)
 3. Interact with forms and other website components 
 
-
-# In this repo. Excercises have been solved using different methods of webscraping with Python. 
+In this repo: 
+## Excercises have been solved using different methods of webscraping with Python. 
 
 
